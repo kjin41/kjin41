@@ -1,7 +1,7 @@
 # KJIN
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kj95287190)](https://solved.ac/kj95287190)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kj95287190)](https://solved.ac/kj95287190)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
